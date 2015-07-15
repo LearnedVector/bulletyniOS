@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  DiscoverVc.swift
 //  bulletyniOS
 //
 //  Created by Michael Nguyen on 7/15/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class DiscoverVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

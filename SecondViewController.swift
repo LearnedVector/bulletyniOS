@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+// ForumVc.swift
 //  bulletyniOS
 //
 //  Created by Michael Nguyen on 7/15/15.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class ForumVc: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
